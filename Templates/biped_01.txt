@@ -1,0 +1,3 @@
+biped_01
+Standard biped, twist joints, mitten hands, no face.
+Z://geppetto/Icons/_icon.xpm

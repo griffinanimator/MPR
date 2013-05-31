@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Holding name="buildPose">
+    <elements>
+        <joint name="head_spline_0_game_joint">
+            <locName>
+                <loc value="Neck"/>
+            </locName>
+        </joint>
+        <joint name="head_spline_1_game_joint">
+            <locName>
+                <loc value="Head"/>
+            </locName>
+        </joint>
+        <joint name="head_spline_2_cap_game_joint">
+            <locName>
+                <loc value="Particle_OverHead"/>
+            </locName>
+        </joint>
+        <joint name="head_spline_2_cap_game_joint">
+            <locName>
+                <loc value="Particle_OverHead2"/>
+            </locName>
+        </joint>
+        <joint name="lt_arm_shoulder_game_joint">
+            <locName>
+                <loc value="Shoulder_Left"/>
+            </locName>
+        </joint>
+        <joint name="lt_hand_game_joint">
+            <locName>
+                <loc value="LOffHand"/>
+            </locName>
+        </joint>
+        <joint name="lt_hand_game_joint">
+            <locName>
+                <loc value="LHand"/>
+            </locName>
+        </joint>
+        <joint name="lt_leg_ball_game_joint">
+            <locName>
+                <loc value="Foot_Left"/>
+            </locName>
+        </joint>
+        <joint name="rt_arm_shoulder_game_joint">
+            <locName>
+                <loc value="Shoulder_Right"/>
+            </locName>
+        </joint>
+        <joint name="rt_hand_game_joint">
+            <locName>
+                <loc value="ROffHand"/>
+            </locName>
+        </joint>
+        <joint name="rt_hand_game_joint">
+            <locName>
+                <loc value="RHand"/>
+            </locName>
+        </joint>
+        <joint name="rt_leg_ball_game_joint">
+            <locName>
+                <loc value="Foot_Right"/>
+            </locName>
+        </joint>
+        <joint name="spine_spline_1_game_joint">
+            <locName>
+                <loc value="Target_Thorax1"/>
+            </locName>
+        </joint>
+        <joint name="spine_spline_2_game_joint">
+            <locName>
+                <loc value="Target_Thorax2"/>
+            </locName>
+        </joint>
+        <joint name="spine_spline_3_game_joint">
+            <locName>
+                <loc value="Target_Thorax3"/>
+            </locName>
+		</joint>
+    </elements>
+</Holding>
